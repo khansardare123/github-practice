@@ -1,2 +1,2 @@
 # github-practice
-repository is github practice fore basic
+change repository is github practice fore basic
